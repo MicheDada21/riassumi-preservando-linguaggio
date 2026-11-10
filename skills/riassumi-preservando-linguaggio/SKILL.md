@@ -1,6 +1,6 @@
 ---
 name: riassumi-preservando-linguaggio
-description: "Condensa un testo nella lingua originale tagliando soltanto incisi e rami secondari. Conserva parola per parola il filo principale, le sue ragioni e la direzione del discorso. Usa quando l'utente chiede un riassunto per sottrazione, un riassunto senza parafrasi o un compendio che mantenga intatte le parole dell'autore."
+description: "Shortens a text in its original language by cutting only asides and digressions, keeping the author's words, their order and the thread. Use when a summary must subtract without paraphrasing."
 ---
 
 # Riassunto per sottrazione
