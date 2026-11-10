@@ -1,5 +1,5 @@
 ---
-name: riassunto-per-sottrazione
+name: riassumi-preservando-linguaggio
 description: "Condensa un testo nella lingua originale tagliando soltanto incisi e rami secondari. Conserva parola per parola il filo principale, le sue ragioni e la direzione del discorso. Usa quando l'utente chiede un riassunto per sottrazione, un riassunto senza parafrasi o un compendio che mantenga intatte le parole dell'autore."
 ---
 
