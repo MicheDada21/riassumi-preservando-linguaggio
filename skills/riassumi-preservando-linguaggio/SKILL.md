@@ -3,7 +3,7 @@ name: riassumi-preservando-linguaggio
 description: "Shortens a text in its original language by cutting only asides and digressions, keeping the author's words, their order and the thread. Use when a summary must subtract without paraphrasing."
 ---
 
-# Riassunto per sottrazione
+# Riassumi preservando linguaggio
 
 Fai emergere il concetto attorno a cui ruota il testo e conserva i passaggi che gli danno senso. In un'argomentazione tieni la domanda, la posizione dell'autore e le ragioni, i passaggi logici e le condizioni che la sostengono o la delimitano. In altri testi segui il filo che organizza il racconto o la spiegazione.
 
